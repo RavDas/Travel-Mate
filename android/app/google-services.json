@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "312214722509",
+    "project_id": "travel-mate-46b40",
+    "storage_bucket": "travel-mate-46b40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312214722509:android:6643f21701b7f3fa6c1684",
+        "android_client_info": {
+          "package_name": "com.flutterflow.fluttermet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312214722509-gkc5af7de6u5cpdck8c6fcu5loulots9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ0foXIMhhymqTdbl9QZvdKwLax0xW7OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312214722509-gkc5af7de6u5cpdck8c6fcu5loulots9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "312214722509-17hqu96aofiusi4h2nt60gq2i0m9g9gk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.fluttermet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
